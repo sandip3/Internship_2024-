@@ -48,7 +48,7 @@ This report documents my progress and tasks completed during my internship, incl
 
 - **Final Status:** ✅ Finished  
 - **Repository:** None  
-- **Preview:** ![](./file.png)  
+- **Preview:** ![](./img/Django[P-1].jpeg)  
 - **Technologies Used:** 🗄️  
     - 🐍 Python, 
     - 🌐 Django    
@@ -134,7 +134,10 @@ This report documents my progress and tasks completed during my internship, incl
     -  Focuse in logic building.
 
 - **Final Status:** ✅ Finished  
-- **Preview:** ![](./file.png)  
+- **Preview:** 
+  ![](./Snake%20(Game)/gif/bite_itself.gif)  
+  
+  ![](./Snake%20(Game)/gif/Well_collpese.gif)  
 - **Repository:** [Snake Game](https://github.com/sandip3/Snake_Game)    
 - **Technologies Used:** 🗄️  
     - 🐍 Python, 
