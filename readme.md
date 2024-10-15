@@ -155,7 +155,7 @@ This report documents my progress and tasks completed during my internship, incl
 
 - **Self-study:** 📚  
     - Trying to learn Bash Scripting
-      - Video: Watch here = ![](https://youtu.be/tK9Oc6AEnR4?si=voamrzER2DCEvWRZ)
+      - Video: [Watch here](https://youtu.be/tK9Oc6AEnR4?si=voamrzER2DCEvWRZ)
   
 
 - **Daily Goals:** 🎯  
