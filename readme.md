@@ -135,9 +135,10 @@ This report documents my progress and tasks completed during my internship, incl
 
 - **Final Status:** ✅ Finished  
 - **Preview:** 
-  ![](./Snake%20(Game)/gif/bite_itself.gif)  
   
-  ![](./Snake%20(Game)/gif/Well_collpese.gif)  
+![](https://raw.githubusercontent.com/sandip3/Snake_Game/refs/heads/main/gif/bite_itself.gif)  
+  
+![](https://raw.githubusercontent.com/sandip3/Snake_Game/refs/heads/main/gif/Well_collpese.gif)  
 - **Repository:** [Snake Game](https://github.com/sandip3/Snake_Game)    
 - **Technologies Used:** 🗄️  
     - 🐍 Python, 
