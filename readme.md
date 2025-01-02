@@ -392,6 +392,51 @@ This report documents my progress and tasks completed during my internship, incl
 
 ---
 
+### 📆 Day 15: 15-OCT-2024 **(Workday)**
+
+- **Self-study:** 📚  
+    - Trying to learn to mack DB For Grocery store in simple page as diagram 
+
+- **Daily Goals:** 🎯  
+    - mack this log 
+
+- **Tasks Completed:** ✔️  
+    - **Task 1** : ✅ Finished  
+
+- **Notes:** 📝  
+    - took long time to mack this log 
+    - to mack db on paper or real life think how like real world 
+      - which info of customer do we have to tack 
+      - which info of Supplyer do we have to tack 
+      - which info of admin(shop keeper) do we have to tack 
+      - which info of Super_admin(us) do we have to tack 
+
+- **Final Status:** ❌ Unfinished  
+- **Repository:** **[Repository Link or None]**  
+- **Technologies Used:** 🗄️  
+    - **[Technologies/Tools Used]**  
+
+- **Challenges Faced:** ⚠️  
+    - don't know where to start   
+    - what do i write and add to this db
+
+- **Reflections:** 💭  
+    - think like real world 
+      - ex:
+        - which Info to get from cutomer 
+          - name:
+          - ph.no
+          - frequently bouthu items
+          - add ,etc
+        - same fot supplyer
+          - item's
+          - price,etc
+        - Same for shopkeper
+          - list of item's 
+          - price,etc
+
+---
+
 ### 📆 Day x: x-OCT-2024 **(Workday/Holiday)**
 
 - **Self-study:** 📚  
@@ -426,4 +471,3 @@ This report documents my progress and tasks completed during my internship, incl
     - **[What you learned or realized]**
 
 ---
-"
